@@ -1,6 +1,6 @@
 ---
 title: "hello"
-output: html_document
+output: github_document
 ---
 ## table of contents 
 ```{r setup, include=FALSE}
